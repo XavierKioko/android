@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mdev Store</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">settings</string>
+
+    <string name="to_cart">Add to cart</string>
+
+    <!-- Menu -->
+    <string name="menu_new_products">New Goods</string>
+    <string name="menu_cabinet">Personal Area</string>
+    <string name="menu_cart">Basket</string>
+    <string name="menu_categories">Categories</string>
+    <string name="menu_information">Information</string>
+    <string name="menu_search">Search</string>
+    <string name="todo">TODO</string>
+    <string name="text_information">
+        Food Delivery\n
+        Food Delivery\n
+        Catalog\n\n
+        The application requires an internet connection.
+    </string>
+    <string name="cart_confirm_order">Check Out</string>
+</resources>
